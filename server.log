@@ -1,0 +1,172 @@
+2019-08-03 [13:07:17] [Server thread/INFO]: Loading pocketmine.yml...
+2019-08-03 [13:07:17] [Server thread/INFO]: Loading server properties...
+2019-08-03 [13:07:17] [Server thread/INFO]: Selected English (eng) as the base language
+2019-08-03 [13:07:17] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.11.0
+2019-08-03 [13:07:17] [Server thread/INFO]: Starting remote control listener
+2019-08-03 [13:07:17] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-08-03 [13:07:17] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-08-03 [13:07:17] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-08-03 [13:07:17] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-08-03 [13:07:18] [Server thread/INFO]: This server is running PocketMine-MP version 3.8.0
+2019-08-03 [13:07:18] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-08-03 [13:07:18] [Server thread/INFO]: Loading resource packs...
+2019-08-03 [13:07:18] [Server thread/NOTICE]: World "world" not found
+2019-08-03 [13:07:18] [Server thread/INFO]: Preparing world "world"
+2019-08-03 [13:07:18] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2019-08-03 [13:07:18] [Server thread/INFO]: Default game type: Survival Mode
+2019-08-03 [13:07:18] [Server thread/INFO]: Done (0.743s)! For help, type "help" or "?"
+2019-08-03 [13:07:18] [Server thread/WARNING]: ----- PocketMine-MP Auto Updater -----
+2019-08-03 [13:07:18] [Server thread/WARNING]: Your version of PocketMine-MP is out of date. Version 3.9.3 was released on Mon Jul 29 08:29:17 2019
+2019-08-03 [13:07:18] [Server thread/WARNING]: Details: https://jenkins.pmmp.io/job/PocketMine-MP/1774/
+2019-08-03 [13:07:18] [Server thread/WARNING]: Download: https://jenkins.pmmp.io/job/PocketMine-MP/1774//artifact/PocketMine-MP.phar
+2019-08-03 [13:07:18] [Server thread/WARNING]: ----- -------------------------- -----
+2019-08-09 [12:25:27] [Server thread/INFO]: Loading pocketmine.yml...
+2019-08-09 [12:25:27] [Server thread/INFO]: Loading server properties...
+2019-08-09 [12:25:27] [Server thread/INFO]: Selected English (eng) as the base language
+2019-08-09 [12:25:27] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.12.0
+2019-08-09 [12:25:27] [Server thread/INFO]: Starting remote control listener
+2019-08-09 [12:25:27] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-08-09 [12:25:27] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-08-09 [12:25:27] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-08-09 [12:25:27] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-08-09 [12:25:27] [Server thread/INFO]: This server is running PocketMine-MP version 3.9.3
+2019-08-09 [12:25:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-08-09 [12:25:27] [Server thread/INFO]: Loading resource packs...
+2019-08-09 [12:25:27] [Server thread/INFO]: Preparing world "world"
+2019-08-09 [12:25:27] [Server thread/INFO]: Default game type: Survival Mode
+2019-08-09 [12:25:27] [Server thread/INFO]: Done (0.438s)! For help, type "help" or "?"
+2019-08-09 [12:25:33] [Server thread/INFO]: Plugins (0):
+2019-08-09 [12:25:40] [Server thread/INFO]: Loading pocketmine.yml...
+2019-08-09 [12:25:40] [Server thread/INFO]: Loading server properties...
+2019-08-09 [12:25:40] [Server thread/INFO]: Selected English (eng) as the base language
+2019-08-09 [12:25:40] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.12.0
+2019-08-09 [12:25:40] [Server thread/INFO]: Starting remote control listener
+2019-08-09 [12:25:40] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2019-08-09 [12:25:41] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2019-08-09 [12:25:41] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2019-08-09 [12:25:41] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2019-08-09 [12:25:41] [Server thread/INFO]: This server is running PocketMine-MP version 3.9.3
+2019-08-09 [12:25:41] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2019-08-09 [12:25:41] [Server thread/INFO]: Loading resource packs...
+2019-08-09 [12:25:41] [Server thread/INFO]: Preparing world "world"
+2019-08-09 [12:25:41] [Server thread/INFO]: Default game type: Survival Mode
+2019-08-09 [12:25:41] [Server thread/INFO]: Done (0.413s)! For help, type "help" or "?"
+2020-06-10 [00:29:13] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-10 [00:29:13] [Server thread/INFO]: Loading server properties...
+2020-06-10 [00:29:13] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-10 [00:29:13] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-10 [00:29:13] [Server thread/INFO]: Starting remote control listener
+2020-06-10 [00:29:13] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-10 [00:29:13] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-10 [00:29:13] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-10 [00:29:13] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-10 [00:29:14] [Server thread/INFO]: This server is running PocketMine-MP version 3.13.0
+2020-06-10 [00:29:14] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-10 [00:29:15] [Server thread/INFO]: Loading resource packs...
+2020-06-10 [00:29:15] [Server thread/INFO]: Preparing world "world"
+2020-06-10 [00:29:15] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-10 [00:29:15] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-10 [00:29:15] [Server thread/INFO]: Done (1.633s)! For help, type "help" or "?"
+2020-06-10 [00:32:09] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:52650] logged out due to Server is white-listed
+2020-06-10 [00:32:16] [Server thread/INFO]: [CONSOLE: Opped xxyangsterxx]
+2020-06-10 [00:32:21] [Server thread/INFO]: [CONSOLE: Turned off the whitelist]
+2020-06-10 [00:32:31] [Server thread/NOTICE]: Player data not found for "xxyangsterxx", creating new profile
+2020-06-10 [00:32:32] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:60000] logged in with entity id 1 at (world, 256, 70, 256)
+2020-06-10 [00:32:40] [Server thread/INFO]: xXYANGSTERXx joined the game
+2020-06-10 [00:33:29] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:60000] logged out due to transfer
+2020-06-10 [00:33:50] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:65324] logged in with entity id 2 at (world, 256, 69, 256.8572)
+2020-06-10 [00:34:00] [Server thread/INFO]: xXYANGSTERXx joined the game
+2020-06-10 [00:34:35] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:65324] logged out due to transfer
+2020-06-10 [00:34:49] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:55230] logged in with entity id 3 at (world, 256, 69, 256.8572)
+2020-06-10 [00:34:57] [Server thread/INFO]: xXYANGSTERXx joined the game
+2020-06-10 [00:35:36] [Server thread/INFO]: xXYANGSTERXx[/10.0.0.109:55230] logged out due to transfer
+2020-06-22 [11:21:45] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-22 [11:21:45] [Server thread/INFO]: Loading server properties...
+2020-06-22 [11:21:45] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-22 [11:21:45] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.14.60
+2020-06-22 [11:21:45] [Server thread/INFO]: Starting remote control listener
+2020-06-22 [11:21:45] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-22 [11:21:45] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-22 [11:21:45] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-22 [11:21:45] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-22 [11:21:45] [Server thread/INFO]: This server is running PocketMine-MP version 3.13.0
+2020-06-22 [11:21:45] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-22 [11:21:45] [Server thread/INFO]: Loading resource packs...
+2020-06-22 [11:21:46] [Server thread/INFO]: Preparing world "world"
+2020-06-22 [11:21:46] [Server thread/INFO]: Default game type: Survival Mode
+2020-06-22 [11:21:46] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-06-22 [11:21:46] [Server thread/INFO]: Done (0.841s)! For help, type "help" or "?"
+2020-06-30 [00:01:26] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-30 [00:01:26] [Server thread/INFO]: Loading server properties...
+2020-06-30 [00:01:26] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-30 [00:01:26] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-06-30 [00:01:26] [Server thread/INFO]: Starting remote control listener
+2020-06-30 [00:01:26] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-30 [00:01:26] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-30 [00:01:26] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-30 [00:01:26] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-30 [00:01:27] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.0
+2020-06-30 [00:01:27] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-30 [00:01:28] [Server thread/INFO]: Loading resource packs...
+2020-06-30 [00:01:28] [Server thread/ERROR]: Could not load world "world": Cannot identify format of world
+2020-06-30 [00:01:28] [Server thread/EMERGENCY]: No default world has been loaded
+2020-06-30 [00:01:28] [Server thread/INFO]: Stopping other threads
+2020-06-30 [00:31:53] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-30 [00:31:53] [Server thread/INFO]: Loading server properties...
+2020-06-30 [00:31:53] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-30 [00:31:53] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-06-30 [00:31:53] [Server thread/INFO]: Starting remote control listener
+2020-06-30 [00:31:54] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-30 [00:31:54] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-30 [00:31:54] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-30 [00:31:54] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-30 [00:31:54] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.0
+2020-06-30 [00:31:54] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-30 [00:31:55] [Server thread/INFO]: Loading resource packs...
+2020-06-30 [00:31:55] [Server thread/ERROR]: Could not load world "world": Cannot identify format of world
+2020-06-30 [00:31:55] [Server thread/EMERGENCY]: No default world has been loaded
+2020-06-30 [00:31:55] [Server thread/INFO]: Stopping other threads
+2020-06-30 [00:32:14] [Server thread/INFO]: Loading pocketmine.yml...
+2020-06-30 [00:32:14] [Server thread/INFO]: Loading server properties...
+2020-06-30 [00:32:14] [Server thread/INFO]: Selected English (eng) as the base language
+2020-06-30 [00:32:14] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-06-30 [00:32:14] [Server thread/INFO]: Starting remote control listener
+2020-06-30 [00:32:14] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-06-30 [00:32:14] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-06-30 [00:32:14] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-06-30 [00:32:14] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-06-30 [00:32:14] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.0
+2020-06-30 [00:32:14] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-06-30 [00:32:15] [Server thread/INFO]: Loading resource packs...
+2020-06-30 [00:32:15] [Server thread/ERROR]: Could not load world "world": Cannot identify format of world
+2020-06-30 [00:32:15] [Server thread/EMERGENCY]: No default world has been loaded
+2020-06-30 [00:32:16] [Server thread/INFO]: Stopping other threads
+2020-07-02 [00:56:48] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-02 [00:56:48] [Server thread/INFO]: Loading server properties...
+2020-07-02 [00:56:48] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-02 [00:56:48] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-02 [00:56:48] [Server thread/INFO]: Starting remote control listener
+2020-07-02 [00:56:48] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-07-02 [00:56:48] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-02 [00:56:48] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-02 [00:56:48] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-02 [00:56:48] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.0
+2020-07-02 [00:56:48] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2020-07-02 [00:56:49] [Server thread/INFO]: Loading resource packs...
+2020-07-02 [00:56:49] [Server thread/NOTICE]: World "world" not found
+2020-07-02 [00:56:49] [Server thread/INFO]: Preparing world "world"
+2020-07-02 [00:56:49] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2020-07-02 [00:56:49] [Server thread/INFO]: Default game type: Survival Mode
+2020-07-02 [00:56:49] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2020-07-02 [00:56:49] [Server thread/INFO]: Done (1.605s)! For help, type "help" or "?"
+2020-07-02 [00:58:49] [Server thread/INFO]: Loading pocketmine.yml...
+2020-07-02 [00:58:49] [Server thread/INFO]: Loading server properties...
+2020-07-02 [00:58:49] [Server thread/INFO]: Selected English (eng) as the base language
+2020-07-02 [00:58:49] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.16.0
+2020-07-02 [00:58:49] [Server thread/INFO]: Starting remote control listener
+2020-07-02 [00:58:49] [Server thread/INFO]: RCON running on 0.0.0.0:19132
+2020-07-02 [00:58:49] [Server thread/NOTICE]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2020-07-02 [00:58:49] [Server thread/NOTICE]: To disable authentication, set "xbox-auth" to "false" in server.properties.
+2020-07-02 [00:58:49] [Server thread/INFO]: Opening server on 0.0.0.0:19132
+2020-07-02 [00:58:50] [Server thread/INFO]: This server is running PocketMine-MP version 3.14.0
+2020-07-02 [00:58:50] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
